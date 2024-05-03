@@ -1,0 +1,83 @@
+<?xml version ='1.0' encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Luxury Leather Bag</name>
+        <description>A stylish and durable leather bag for all occasions.</description>
+        <price>199.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/ph-11134207-7qul8-liud78ci2gd863</img_url>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Smartphone Holder</name>
+        <description>An adjustable holder for your smartphone, perfect for watching videos hands-free.</description>
+        <price>12.50</price>
+        <onsale>true</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/5618ba8517c4a7ccfbce858047c6ca2b</img_url>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Classic Men's Watch</name>
+        <description>A timeless piece for every gentleman, featuring a stainless steel case and leather strap.</description>
+        <price>149.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/sg-11134201-7rce2-ltaf0g43n9o2d3</img_url>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Wireless Bluetooth Earbuds</name>
+        <description>Experience true wireless freedom with these high-quality Bluetooth earbuds.</description>
+        <price>79.99</price>
+        <onsale>true</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/ph-11134207-7r98q-lrdziq6r8ik5c4</img_url>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Organic Cotton T-Shirt</name>
+        <description>A comfortable and eco-friendly t-shirt made from 100% organic cotton.</description>
+        <price>24.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/ph-11134207-7r98r-lld15j5ibb9f4b</img_url>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Professional Chef's Knife</name>
+        <description>A high-quality chef's knife designed for precision cutting and durability.</description>
+        <price>89.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/ph-11134207-7r98r-llkcurhv3eya5d</img_url>
+    </product>
+    <product>
+        <id>7</id>
+        <name>Fitness Tracker Watch</name>
+        <description>Monitor your health and fitness goals with this sleek and reliable fitness tracker watch.</description>
+        <price>69.99</price>
+        <onsale>true</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/sg-11134301-7rbkp-lqfpgm2ligqi8d</img_url>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Vintage Polaroid Camera</name>
+        <description>Capture memories in retro style with this vintage Polaroid camera.</description>
+        <price>129.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/sg-11134202-7rd75-luddps8x2zbred</img_url>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Portable Bluetooth Speaker</name>
+        <description>Enjoy your favorite music on the go with this compact and powerful Bluetooth speaker.</description>
+        <price>49.99</price>
+        <onsale>true</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/e2ea07b85d83e55983966c1269126244</img_url>
+    </product>
+    <product>
+        <id>10</id>
+        <name>Designer Sunglasses</name>
+        <description>Protect your eyes in style with these designer sunglasses featuring UV protection.</description>
+        <price>159.99</price>
+        <onsale>false</onsale>
+        <img_url>https://down-ph.img.susercontent.com/file/cn-11134301-7qukw-lkakjpp8dk9287</img_url>
+    </product>
+</products>
